@@ -1,0 +1,72 @@
+((("kwargs" .
+   [1 0 0 0 0 0])
+  ("privilege" .
+   [1 0 0 0 0 0 0 0 0])
+  ("context" .
+   [1 0 0 0 0 0 0])
+  ("parameter" .
+   [1 0 0 0 0 0 0 0 0])
+  ("location" .
+   [1 0 0 0 0 0 0 0])
+  ("user" .
+   [1 0 0 0])
+  ("module" .
+   [1 0 0 0 0 0])
+  ("delete_telephone" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("level" .
+   [1 0 0 0 0])
+  ("LINK_MOBILE_DATA" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Subscriber" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("link" .
+   [1 0 0 0])
+  ("register" .
+   [1 0 0 0 0 0 0 0])
+  ("vehicle_info" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("global-set-key" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("kbd" .
+   [1 0 0])
+  ("sr-speedbar-toggle" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("optparse" .
+   [1 0 0 0 0 0 0 0])
+  ("parser" .
+   [2 0 0 0 0 0])
+  ("options" .
+   [1 0 0 0 0 0 0])
+  ("parse_options" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("insert" .
+   [2 0 0 0 0 0])
+  ("results" .
+   [5 0 0 0 0 0 0])
+  ("format" .
+   [2 0 0 0 0 0])
+  ("echo" .
+   [4 0 0 0])
+  ("template" .
+   [1 0 0 0 0 0 0 0])
+  ("last_endpos" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("concat" .
+   [1 0 0 0 0 0])
+  ("bitcode" .
+   [2 0 0 0 0 2 0])
+  ("loaded" .
+   [1 0 0 0 0 0])
+  ("path" .
+   [1 0 0 0])
+  ("include" .
+   [1 0 0 0 1 1 0])
+  ("ob_start" .
+   [0 0 1 0 0 0 0 2])
+  ("ob_get_clean" .
+   [0 0 0 1 0 0 2 0 0 0 0 1])
+  ("env" .
+   [2 0 0])
+  ("params" .
+   [2 0 0 0 0 0])))
